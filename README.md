@@ -2513,12 +2513,6 @@ Różne modele SDLC stanowią różne podejścia do organizacji i sekwencjonowan
 
 ---
 
-## 41. Metody oraz strategie testowania oprogramowania
-**Odpowiedź:**
-> **Tu wpisujesz swoją odpowiedź**
-
----
-
 # Projektowanie systemów informatycznych
 
 ## 41. Metody oraz strategie testowania oprogramowania
